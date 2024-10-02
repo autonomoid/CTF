@@ -1,6 +1,8 @@
 # Write-Ups
 HTB - https://github.com/jon-brandy/hackthebox/blob/main/Categories/Pwn/Execute/README.md
 
+HTB - https://zweilosec.gitbook.io/htb-writeups
+
 # Documentation
 pwntools - https://github.com/Gallopsled/pwntools-tutorial#readme
 
