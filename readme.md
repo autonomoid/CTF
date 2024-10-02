@@ -9,5 +9,8 @@ Cracking ASM - https://medium.com/@sruthk/cracking-assembly-function-prolog-and-
 Payloads - https://github.com/swisskyrepo/PayloadsAllTheThings
 
 Cheatsheets - https://swisskyrepo.github.io/InternalAllTheThings/
+Cheatsheets - https://github.com/Adamkadaban/CTFs?tab=readme-ov-file
+Cheatsheets - https://github.com/nirvikagarwal/awesome-ctf-cheatsheet?tab=readme-ov-file
+Cheatsheets - https://github.com/w181496/Web-CTF-Cheatsheet
 
 CTF - https://github.com/devploit/awesome-ctf-resources?tab=readme-ov-file
