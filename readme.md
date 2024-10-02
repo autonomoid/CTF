@@ -3,6 +3,14 @@ HTB - https://github.com/jon-brandy/hackthebox/blob/main/Categories/Pwn/Execute/
 
 HTB - https://zweilosec.gitbook.io/htb-writeups
 
+PP - https://medium.com/@seangreptzy/htb-pollution-e5146c17352d
+
+PP - https://medium.com/@wartelski/tryhackme-prototype-pollution-walkthrough-0d2b3c0d3f3b
+
+PP - https://github.com/nandan-desai-extras/prototype-pollution/blob/master/gunship-walkthrough.md
+
+PP - https://oscp-exodussec.gitbook.io/cheatsheet55/bscp/11.-prototype-pollution
+
 # Documentation
 pwntools - https://github.com/Gallopsled/pwntools-tutorial#readme
 
@@ -27,3 +35,5 @@ CTF - https://github.com/devploit/awesome-ctf-resources?tab=readme-ov-file
 Oneliners - https://github.com/Qwesi360/Reverse-Shell-One-liners
 
 Cheatsheet - https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+
+
