@@ -3,6 +3,7 @@ HTB - https://github.com/jon-brandy/hackthebox/blob/main/Categories/Pwn/Execute/
 
 # Documentation
 pwntools - https://github.com/Gallopsled/pwntools-tutorial#readme
+Cracking ASM - https://medium.com/@sruthk/cracking-assembly-function-prolog-and-epilog-in-x64-ea1bdc50514c
 
 # Resources
 Payloads - https://github.com/swisskyrepo/PayloadsAllTheThings
